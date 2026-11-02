@@ -58,7 +58,7 @@ You can navigate the folders directly via the GitHub UI above to locate the spec
 To keep a complete offline backup copy of this database on your local machine, run the following command in your terminal:
 
 ```bash
-git clone https://github.com
+git clone https://github.com/tech1rag/E-Cybrary.git
 ```
 
 ## 🤝 Contributing
